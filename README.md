@@ -1,2 +1,2 @@
-# Superetteikerweb
-Mi empresa de Superette
+# IkerSneackers web
+Mi empresa de Zapatería
